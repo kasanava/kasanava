@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Kevin Sánchez
 
-Hey! I'm Kevin, a data geek who used to be in sales for 4+ years – now, after my **bootcamp at TripleTen**, I'm all about turning numbers into cool insights. You'll find me here playing with SQL, Python, and Power BI to make data-driven magic happen, always up for a new project or collaboration!
+Hey! I'm Kevin, a data geek who spent over 4 years in sales. Now, after completing my **bootcamp at TripleTen**, I'm focused on turning numbers into actionable insights. You'll find me here playing with SQL, Python, and Power BI to make data-driven magic happen, always up for a new project or collaboration!
 
 ---
 
