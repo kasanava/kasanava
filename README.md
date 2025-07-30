@@ -36,6 +36,12 @@ My professional experience has been a playground for applying data-driven strate
     * Developed and managed precise sales forecasts, ensuring strategic resource allocation based on data projections.
     * Streamlined customer issue resolution workflows, enhancing overall client experience through cross-functional collaboration.
 
-### **Sr Sales Representative** | Metrocarrier
-* **Jan 2019 – Jul 2022** | Durango, Durango
-    * **Achieved over 90% customer renewal rate
+## 📊 My Data Projects
+
+Here are some highlights from my hands-on data analysis projects, demonstrating my skills in action:
+
+* **Vehicle Data Analysis & Environmental Impact** | [Repository](https://github.com/kasanava/3ten-vehicles_env)
+    * **Objective:** Explored a dataset of vehicles to identify trends, analyze feature impacts on pricing, and assess potential environmental implications.
+    * **Technologies:** Python (Pandas for data manipulation, NumPy for numerical operations, Matplotlib & Seaborn for exploratory data analysis and visualization).
+    * **Impact:** Uncovered key correlations between vehicle attributes and market value, providing insights for strategic decision-making in the automotive sector.
+
